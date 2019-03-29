@@ -21,4 +21,8 @@ service.impl：业务逻辑实现层
 dto：数据传输对象  
 vo：视图包装对象  
 utils：常用工具类  
-exception：自定义的异常，建议使用@ControllerAdvice和@ExceptionHandler进行全局异常处理  
+exception：自定义的异常，建议使用@ControllerAdvice和@ExceptionHandler进行全局异常处理
+
+# 系列博文
+* [Spring Boot系列学习文章(一) -- Intellij IDEA 搭建Spring Boot项目](https://www.cnblogs.com/AnneHan/p/10318343.html)
+* [Spring Boot系列学习文章(二) -- 配置多数据源](https://www.cnblogs.com/AnneHan/p/10532066.html)
